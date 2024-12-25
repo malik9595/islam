@@ -19,8 +19,62 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://islam-pi.vercel.app/polyandry</loc>
+    <loc>https://islam-pi.vercel.app/alcohol</loc>
     <lastmod>2024-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://islam-pi.vercel.app/hijab</loc>
+    <lastmod>2024-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://islam-pi.vercel.app/inheritance</loc>
+    <lastmod>2024-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://islam-pi.vercel.app/kabah</loc>
+    <lastmod>2024-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://islam-pi.vercel.app/makkah</loc>
+    <lastmod>2024-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://islam-pi.vercel.app/non-vegetarian</loc>
+    <lastmod>2024-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://islam-pi.vercel.app/pork</loc>
+    <lastmod>2024-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://islam-pi.vercel.app/slaughtering-animal</loc>
+    <lastmod>2024-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://islam-pi.vercel.app/sword</loc>
+    <lastmod>2024-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://islam-pi.vercel.app/terrorists</loc>
+    <lastmod>2024-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
